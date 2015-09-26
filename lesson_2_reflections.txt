@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 -You can use it to save your files online within your git account
+
+How is the staging area different form the working directory and the repository?
+What value do you think it offers?
+-This staging area offers you the ability to see which files have been edited
