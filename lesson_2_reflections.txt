@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-You can use it to save your files online within your git account
